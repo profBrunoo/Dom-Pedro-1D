@@ -7,3 +7,10 @@ h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: aqua;
 }
+
+p{
+    color:aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blue;
+    font-size: 100px;
+}
